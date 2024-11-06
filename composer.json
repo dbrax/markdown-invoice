@@ -13,7 +13,7 @@
     "require": {
         "dflydev/markdown": "dev-master",
         "symfony/console": "2.7.4",
-   	    "symfony/process": "2.7.4",
+   	    "symfony/process": "5.4.46",
         "symfony/filesystem": "2.7.4",
         "symfony/finder": "2.7.4"
     },
